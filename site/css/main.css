@@ -269,7 +269,7 @@ pre > code {
 }
 
 .nav-sidebar li.active a, .nav-sidebar li a:hover, .nav-sidebar li a:focus, .nav-sidebar a.nav-link.active {
-    background-color: #2A7AE2;
+    background-color: #362ae2;
     color: white;
     width: 100%;
     
@@ -318,7 +318,7 @@ pre > code {
 }
 
 .evenday {
-	background-color: #e8f1fc;
+	background-color: #e9e8fc;
 }
 
 
@@ -429,7 +429,7 @@ pre > code {
 }
 
 .card_project .btn-right {
-	background-color: #e8f1fc;
+	background-color: #e9e8fc;
 }
 
 .card-text {
@@ -439,14 +439,14 @@ pre > code {
 .btn-left:hover, .btn-left:focus, .btn-left:active, .btn-left.active, .btn-left:hover>a, .btn-right:hover>a,
 .btn-right:hover, .btn-right:focus, .btn-right:active, .btn-right.active {
 	color: #ffffff;
-    background-color: #2A7AE2;
+    background-color: #362ae2;
     border-color: #000000;
 }
 
 .btn-left>a:hover, .btn-left>a:focus, .btn-left>a:active, .btn-left>a.active,
 .btn-right>a:hover, .btn-right>a:focus, .btn-right>a:active, .btn-right>a.active {
     color: #fff;
-    background-color: #2A7AE2;
+    background-color: #362ae2;
     border-color: #000000; /*set the color you want here*/
    text-decoration: none;
 }
