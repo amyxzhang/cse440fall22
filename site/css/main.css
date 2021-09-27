@@ -79,9 +79,9 @@ a {
   color: #362ae2;
   text-decoration: none; }
 a:visited {
-  color: #1756a9; }
+  color: #362ae2; }
 a:hover {
-  color: #b7a57a;;
+  color: #b7a57a;
   text-decoration: underline; }
 
 /**
@@ -314,7 +314,7 @@ pre > code {
 
 
 .oddday {
-	background-color: #f9fbfe;
+	background-color: #faf9fe;
 }
 
 .evenday {
