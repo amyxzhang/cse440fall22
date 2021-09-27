@@ -76,7 +76,7 @@ h1, h2, h3, h4 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #362ae2;
   text-decoration: none; }
 a:visited {
   color: #1756a9; }
@@ -158,22 +158,22 @@ pre > code {
 }
 
 .navbar-inverse .navbar-brand {
-  background-color: #2A7AE2;
+  background-color: #362ae2;
   color: white; }
 
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  background-color: #2A7AE2; }
+  background-color: #362ae2; }
 
 .navbar-inverse .navbar-nav > li > a {
-  color: #2a7ae2; }
+  color: #362ae2; }
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
   color: #b7a57a; }
 
 .navbar-right {
-  background-color: #2A7AE2; }
+  background-color: #362ae2; }
 
 .navbar-inverse .navbar-right > li > a,
 .navbar-inverse .navbar-right > li > a,
@@ -184,7 +184,7 @@ pre > code {
  }
  
  .navbar-toggle {
- 	background-color: #2A7AE2;
+ 	background-color: #362ae2;
  }
  
  .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
